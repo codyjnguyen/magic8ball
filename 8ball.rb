@@ -10,6 +10,7 @@ class MagicEightBall
   "Honestly, just try again",
   "I don't know you tell me",
   "Sure",
+  "I'm not really sure"
 ]
     @answer_arr = @arr.clone
      puts "Welcome to MAGIC 8 BALL".colorize(:yellow)
